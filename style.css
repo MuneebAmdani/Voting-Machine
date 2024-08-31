@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    margin-top: 15%;
+}
+body{
+    background-image: url("https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt79394afab025eeb9/65ad7915bb8508040aaa44c4/Vote_Saphiens_Alamy.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+input{
+    background-color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   border-radius: 5px;
+   color: white;
+}
+button{
+    background-color:yellow ;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
